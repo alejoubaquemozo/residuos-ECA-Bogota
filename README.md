@@ -3,7 +3,9 @@ Mapa de puntos y de calor de las Estaciones de Clasificación y Aprovechamiento 
 Los datos provienen de las siguientes fuentes:
 
 -Barrios: https://datosabiertos.bogota.gov.co/dataset/sector-catastral
+
 -Localidades: https://datosabiertos.bogota.gov.co/dataset/localidad-bogota-d-c
+
 -ECA: http://www.sui.gov.co/web/aseo
 
 El propósito de esta publicación, es realizar un análisis de las dinámicas relacionadas con residuos sólidos y la geografía, en este caso la distribución y patrones encontrados de la ubicacion de las ECA de los prestadores de aprovechamiento en la capital de Colombia. 
