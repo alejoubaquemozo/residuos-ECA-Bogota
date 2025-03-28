@@ -1,4 +1,4 @@
-# residuos-ECA-Bogota
+# Mugreografía: residuos-geografía-ECA-Bogota
 Mapa de puntos y de calor de las Estaciones de Clasificación y Aprovechamiento - ECA en Bogotá a corte de marzo 2025 hecho en lenguaje R. 
 Los datos provienen de las siguientes fuentes:
 
