@@ -10,7 +10,7 @@ Los datos provienen de las siguientes fuentes:
 
 El propósito de esta publicación, es realizar un análisis de las dinámicas relacionadas con residuos sólidos ♻ y la geografía 🗺, en este caso la distribución y patrones encontrados de la ubicacion de las ECA de los prestadores de aprovechamiento en la capital de Colombia. 
 
-Para poder usar el código y los archivos, se deben descargar todos y abrir el archivo denominado "residuos.Rproj" que contiene la raíz y de esta form será más fácil la importación de las capas y el archivo de Excel. 
+Para poder usar el código y los archivos, se deben descargar todos y abrir el archivo denominado "residuos.Rproj" que contiene la raíz y de esta forma será más fácil la importación de las capas y el archivo de Excel. 
 
 Mientras que, el archivo que contiene el código se denomina "analisis_mapa_calor_eca_Bogota", largo pero descriptivo jajaja 😅
 
